@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="emp_id" label="Emp Id" language="en" table="x_184495_service_employee_data">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>emp_id</element>
+            <help/>
+            <hint/>
+            <label>Emp Id</label>
+            <language>en</language>
+            <name>x_184495_service_employee_data</name>
+            <plural>Emp Ids</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-23 11:39:20</sys_created_on>
+            <sys_id>e3856300dbe01300f6e1dd30cf9619b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Emp Id</sys_name>
+            <sys_package display_value="ServiceNow-GitHub Test" source="x_184495_service">43126788dba01300f6e1dd30cf96192b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ServiceNow-GitHub Test">43126788dba01300f6e1dd30cf96192b</sys_scope>
+            <sys_update_name>sys_documentation_x_184495_service_employee_data_emp_id_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-23 11:39:20</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

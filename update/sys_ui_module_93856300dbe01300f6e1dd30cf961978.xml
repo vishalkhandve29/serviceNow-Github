@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Employee Data">df856300dbe01300f6e1dd30cf961975</application>
+        <filter/>
+        <name>Employee Data</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_184495_service.employee_data_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-23 11:39:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>93856300dbe01300f6e1dd30cf961978</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Employee Data</sys_name>
+        <sys_package display_value="ServiceNow-GitHub Test" source="x_184495_service">43126788dba01300f6e1dd30cf96192b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow-GitHub Test">43126788dba01300f6e1dd30cf96192b</sys_scope>
+        <sys_update_name>sys_ui_module_93856300dbe01300f6e1dd30cf961978</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-23 11:39:19</sys_updated_on>
+        <table>x_184495_service_employee_data</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
